@@ -13,6 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: centrumek/duolingo-readme-stats@main
+      - uses: Thepilli/duolingo-readme-stats@main
         with:
           DUOLINGO_USER_ID: '730772122'
