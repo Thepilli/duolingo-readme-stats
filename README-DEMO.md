@@ -9,7 +9,7 @@ The content genrated by the action starts here:
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 Centrumek | 🔥 999 | ⚡ 37969 |
+| 👤 Centrumek | 🔥 1000 | ⚡ 37979 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
